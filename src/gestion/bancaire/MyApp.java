@@ -24,7 +24,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.table.DefaultTableModel;
 
 /**
- *
+ * AAA
  * @author Silver
  */
 public class MyApp extends javax.swing.JFrame {
